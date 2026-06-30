@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<h2>Customer Information</h2>
+
+<h3>
+    {{ customer.name }}
+
+</h3>
+
+<p>Email: {{ customer.email }}</p>
+
+<p>Phone: {{ customer.phone }}</p>
+
+{% endblock %}

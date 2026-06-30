@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="En">
+<head>
+    <title>{% block title %}Product{% endblock %}</title>
+</head>
+<body>
+
+   {% for product in products %}
+    <p>
+        {{ product.product_name }}
+        {{ product.description }}
+        {{ product.sku }}
+        {{ product.price }}
+        {{ product.quantity_in_stock }}
+        
+    {% endfor %}
+    </p>
+</body>
+</html>
