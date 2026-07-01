@@ -10,7 +10,6 @@ A full-stack order management application built with **Django** and **React**. T
 
 Order Manager is a web application that allows users to create and manage customers, products, and orders from a centralized interface. The project is being developed to strengthen backend API development, frontend integration, database design, and authentication using industry-standard technologies.
 
----
 
 ## ✨ Current Features
 
@@ -30,7 +29,6 @@ Order Manager is a web application that allows users to create and manage custom
 - Responsive user interface
 - Dynamic data rendering
 
----
 
 ## 🚧 Planned Features
 
@@ -49,7 +47,6 @@ Order Manager is a web application that allows users to create and manage custom
 - Docker support
 - Deployment to the cloud
 
----
 
 ## 🛠️ Tech Stack
 
@@ -70,7 +67,6 @@ Order Manager is a web application that allows users to create and manage custom
 - GitHub
 - VS Code
 
----
 
 ## 📁 Project Structure
 
@@ -154,7 +150,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## 🎯 Learning Objectives
 
@@ -170,7 +165,6 @@ This project focuses on developing skills in:
 - Frontend/backend integration
 - Version control with Git
 
----
 
 ## 📌 Future Improvements
 
@@ -182,19 +176,16 @@ This project focuses on developing skills in:
 - API documentation
 - Performance optimization
 
----
 
 ## 📷 Screenshots
 
 Screenshots and demos will be added as development progresses.
 
----
 
 ## 🤝 Contributing
 
 This project is currently a personal portfolio project. Suggestions and feedback are always welcome.
 
----
 
 ## 👩‍💻 Author
 
@@ -202,7 +193,6 @@ Jasmine Fulmore
 
 Computer Science student with an interest in backend development, automation, system integration, and full-stack application development.
 
----
 
 ## 📄 License
 
